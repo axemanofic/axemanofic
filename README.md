@@ -1,16 +1,20 @@
-### Hi there 👋
+# Hello!!🖐
+## My name is Roman! I am a beginner Python Developer.
 
-<!--
-**axemanofic/axemanofic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Skills
+- Python
+- VK API, Telegram API
+- MySQL, SQLite
+- English (Pre-Intermediate), Russian (Native)
 
-Here are some ideas to get you started:
+### Experience
+- Internet agency "Альянс+" (2021 - Present)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Projects
+
+- ### [Bots for Telegram](https://github.com/axemanofic?tab=repositories&q=bot)
+- ### [Python project](https://github.com/axemanofic?tab=repositories&language=python)
+- ### [Web development](https://github.com/axemanofic?tab=repositories&language=html)
+
+### Education
+- Bryansk State Engineering and Technological University (2018 - Present)
