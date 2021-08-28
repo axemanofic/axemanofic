@@ -1,7 +1,7 @@
 # Hello!!🖐
 ## My name is Roman! I am a beginner Python Developer.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=axemanofic&no-frame=true&no-bg=true&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=axemanofic&no-frame=true&no-bg=true&theme=gruvbox&column=3&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Skills
 - Python
