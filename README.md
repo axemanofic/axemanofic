@@ -10,7 +10,7 @@
 - English (Pre-Intermediate), Russian (Native)
 
 ### Experience
-- Complex integrator of digital solutions web, mobile, analytics Noosoft companmy (2021 - Present)
+- Complex integrator of digital solutions web, mobile, analytics Noosoft company (2021 - Present)
 
 ### Projects
 
