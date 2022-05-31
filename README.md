@@ -19,4 +19,4 @@
 - ### [Web development](https://github.com/axemanofic?tab=repositories&language=html)
 
 ### Education
-- Bryansk State Engineering and Technological University (2018 - Present)
+- Bryansk State Engineering and Technological University (2018 - 2022)
