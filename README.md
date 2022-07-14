@@ -12,11 +12,5 @@
 ### Experience
 - Complex integrator of digital solutions web, mobile, analytics Noosoft company (2021 - Present)
 
-### Projects
-
-- ### [Bots for Telegram](https://github.com/axemanofic?tab=repositories&q=bot)
-- ### [Python project](https://github.com/axemanofic?tab=repositories&language=python)
-- ### [Web development](https://github.com/axemanofic?tab=repositories&language=html)
-
 ### Education
 - Bryansk State Engineering and Technological University (2018 - 2022)
