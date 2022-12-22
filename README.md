@@ -45,5 +45,3 @@
 
 ## Important projects
 [![tnt-python](https://github-readme-stats.vercel.app/api/pin/?username=watchmanix&repo=tnt-python&hide_border=true&theme=dracula)](https://github.com/watchmanix/tnt-python)
-
-[![right-tools-project](https://github-readme-stats.vercel.app/api/pin/?username=NoNameCompanyUniverse&repo=right-tools-project&hide_border=true&theme=dracula)](https://github.com/NoNameCompanyUniverse/right-tools-project)
