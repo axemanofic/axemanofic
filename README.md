@@ -35,13 +35,3 @@
 ![JetBrains](https://img.shields.io/badge/-JetBrains_IDE-black?style=flat&logo=JetBrains)
 ![Postman](https://img.shields.io/badge/Postman-white?style=flat&logo=postman)
 ![Linux](https://img.shields.io/badge/Linux-black?style=flat&logo=linux)
-
-
-## Statistics
-![axeman_stats](https://github-readme-stats.vercel.app/api?username=axemanofic&hide_border=true&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&card_width=1&line_height=20)
-![axeman_languages](https://github-readme-stats.vercel.app/api/top-langs/?username=axemanofic&hide_border=true&layout=compact&count_private=true&theme=dracula)
-
-![axeman_trophy](https://github-profile-trophy.vercel.app/?username=axemanofic&no-frame=true&theme=dracula&column=3&margin-w=15&margin-h=15&title=Commit,Stars,Repositories,Followers,PullRequest,Issues)
-
-## Important projects
-[![tnt-python](https://github-readme-stats.vercel.app/api/pin/?username=watchmanix&repo=tnt-python&hide_border=true&theme=dracula)](https://github.com/watchmanix/tnt-python)
